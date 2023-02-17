@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.application.ABC_Application_Ver10.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.365 s - in com.application.ABC_Application_Ver10.ApplicationTests
